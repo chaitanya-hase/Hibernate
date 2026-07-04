@@ -174,21 +174,6 @@ This project demonstrates:
 
 ---
 
-## Future Improvements
-
-- Student Search
-- Pagination
-- HQL Queries
-- Criteria API
-- One-to-One Mapping
-- One-to-Many Mapping
-- Many-to-One Mapping
-- Many-to-Many Mapping
-- Spring Boot Integration
-- Spring Data JPA
-
----
-
 ## License
 
 This project is intended for learning Hibernate ORM and Java database programming.
